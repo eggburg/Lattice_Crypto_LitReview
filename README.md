@@ -1,4 +1,4 @@
-# Lattice_Crypto_LitReview
+# Overview
 
 The purpose of this report is to document the literature search findings, my reflection, and establish a landscape of the research trend on lattice cryptography in the past 10 years. Inspired by my preferred career path and job postings of particular interest, my research activities have primarily focused on 2 separate directions of lattice research: (a) implementation techniques of lattice-based crypto schemes, and (b) lattice-based zero knowledge proofs (ZKP). In the following sections, I outline and discuss my understanding and take-aways from the readings, as well as an overall evaluation of the feasibility of returning to the program. 
 
